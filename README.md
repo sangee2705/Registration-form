@@ -97,6 +97,13 @@ Through this project, I learned how to:
 * Dark mode
 
 ---
+## 🌐 Live Demo
+
+[View Project]()
+
+## 🔗 GitHub Repository
+
+[View Source Code]()
 
 ## 👩‍💻 Author
 
