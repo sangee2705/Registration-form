@@ -99,11 +99,11 @@ Through this project, I learned how to:
 ---
 ## 🌐 Live Demo
 
-[View Project]()
+[View Project](https://sangee2705.github.io/Registration-form/)
 
 ## 🔗 GitHub Repository
 
-[View Source Code]()
+[View Source Code](https://github.com/sangee2705/Registration-form)
 
 ## 👩‍💻 Author
 
